@@ -34,9 +34,7 @@
           <span class="tag">PHP 7.2</span>
           <span class="tag">MySql 8</span>
          </div>
-        </div>
 
-        <div class="section">
          <h4 class="is-4">Development Tools:</h4>
          <div class="tags is-centered">
           <span class="tag">AWS Network</span>
@@ -46,9 +44,7 @@
           <span class="tag">VSCODE</span>
           <span class="tag">G-Suite</span>
          </div>
-        </div>
 
-        <div class="section">
          <h4 class="is-4">Frameworks:</h4>
          <div class="tags is-centered">
           <span class="tag">Laravel</span>

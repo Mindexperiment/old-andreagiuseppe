@@ -8,7 +8,7 @@
      <figure class="image is-3by2">
       <img src="" class="project-thumb" />
       <figcaption>
-       <h1 class="title is-size-5 is-size-4-widescreen">Centro Medico Odontoiatrico Polispecialistico IGEA</h1>
+       <h1 class="title is-size-5 is-size-4-widescreen">Centro Medico IGEA</h1>
        <a href="http://www.centromedigea.it" class="button is-primary is-outlined is-rounded" target="_blank">
         <span>Visit Website</span>
         <span class="icon"><i class="fas fa-angle-right"></i></span>

@@ -3,6 +3,8 @@
 @section( 'body' )
  @include( 'layouts.header' )
 
+ @include( 'website.preface' )
+
  @include( 'website.skills' )
 
  @include( 'website.portfolio' )
