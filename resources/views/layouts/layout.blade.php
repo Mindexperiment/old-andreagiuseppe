@@ -8,7 +8,7 @@
   <meta name="csrf-token" content="{{ csrf_token() }}" />
 
   <!-- stylesheets -->
-  <link rel="stylesheet" href="{{ asset( 'theme.css' ) }}" />
+  <link rel="stylesheet" href="{{ asset( 'css/theme.css' ) }}" />
   @stack( 'stylesheets' )
 
   <!-- scripts -->
