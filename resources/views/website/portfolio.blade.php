@@ -10,7 +10,7 @@
       <figcaption>
        <h1 class="title is-size-5 is-size-4-widescreen">Centro Medico IGEA</h1>
        <a href="http://www.centromedigea.it" class="button is-primary is-outlined is-rounded" target="_blank">
-        <span>Visit Website</span>
+        <span>{{ __( 'website.portfolio.button' ) }}</span>
         <span class="icon"><i class="fas fa-angle-right"></i></span>
        </a>
       </figcaption>
@@ -24,7 +24,7 @@
       <figcaption>
        <h1 class="title is-size-5 is-size-4-widescreen">Sartori Video su Misura</h1>
        <a href="https://www.sartorisilvia.com" class="button is-primary is-outlined is-rounded" target="_blank">
-        <span>Visit Website</span>
+        <span>{{ __( 'website.portfolio.button' ) }}</span>
         <span class="icon"><i class="fas fa-angle-right"></i></span>
        </a>
       </figcaption>
@@ -38,7 +38,7 @@
       <figcaption>
        <h1 class="title is-size-5 is-size-4-widescreen">Kaleskop Advertisement</h1>
        <a href="https://kaleskop.com" class="button is-primary is-outlined is-rounded" target="_blank">
-        <span>Visit Website</span>
+        <span>{{ __( 'website.portfolio.button' ) }}</span>
         <span class="icon"><i class="fas fa-angle-right"></i></span>
        </a>
       </figcaption>

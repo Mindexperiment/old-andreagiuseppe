@@ -9,7 +9,15 @@
    <div class="navbar-menu">
     <div class="navbar-end">
      <div class="navbar-item">
-      <a class="navbar-item" href="#skills">{{ __( "skills" ) }}</a>
+      <a class="navbar-item" href="#skills">{{ __( "website.header.menu.skills" ) }}</a>
+     </div>
+
+     <div class="navbar-item">
+      <a class="navbar-item" href="#portfolio">{{ __( "website.header.menu.portfolio" ) }}</a>
+     </div>
+
+     <div class="navbar-item">
+      <a class="navbar-item" href="#contacts">{{ __( "website.header.menu.contacts" ) }}</a>
      </div>
     </div>
    </div>
