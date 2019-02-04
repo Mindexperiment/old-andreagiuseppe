@@ -1,4 +1,4 @@
-<section id="portfolio" class="section">
+<section id="portfolio" class="section projects">
  <div class="container">
 
   <div class="project-grid">  
