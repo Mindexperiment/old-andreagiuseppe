@@ -16,10 +16,6 @@ return [
    'contacts'  => "contacts"
   ]
  ],
- 'preface' => [
-  'welcome' => "Welcome",
-  'whoami'  => "I'm a Full-Stack developer"
- ],
  'skills' => [
   'title'       => "Skills",
   'lead'        => "Over 10 years of experience as a full-stack developer. I started towards the end of 2008 coding small applications as a hobby. I grew up thanks to the study and many collaborations with IT companies. Now, I acquired all the skills needed to manage small to large-sized projects.",
@@ -33,9 +29,13 @@ return [
  'portfolio' => [
   'button' => "Visit Website"
  ],
- 'about' => [
+ 'contacts' => [
   'welcome' => "Hi, I'm Andrea. Nice to meet you.",
   'lead'    => "Design your full-fledged web apps with a solid expertise beside you.",
   'contact' => "Let's get in touch with me:"
+ ],
+ 'preface' => [
+  'welcome' => "Welcome",
+  'whoami'  => "I'm a Full-Stack developer"
  ]
 ];

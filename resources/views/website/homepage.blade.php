@@ -9,7 +9,7 @@
 
  @include( 'website.portfolio' )
 
- @include( 'website.about' )
+ @include( 'website.contacts' )
 
  @include( 'layouts.footer' )
 
