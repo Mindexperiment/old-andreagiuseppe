@@ -9,7 +9,7 @@
    <div class="navbar-menu">
     <div class="navbar-end">
      <div class="navbar-item">
-      <a class="navbar-item" href="#skills">skills</a>
+      <a class="navbar-item" href="#skills">{{ __( "skills" ) }}</a>
      </div>
     </div>
    </div>
