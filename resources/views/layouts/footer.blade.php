@@ -1,12 +1,19 @@
 <footer class="footer">
  <div class="container">
-  <address class="is-size-7">
-   <p>Andrea Giuseppe Pretto</p>
-   <p>Via A. Manzoni, 6</p>
-   <p>36073 Cornedo Vicentino (Vi)</p>
-   <p>P.Iva 03458890245</p>
-  </address>
+  <div class="columns is-size-7">
+   <div class="column">
+    <address>
+     <p>Andrea Giuseppe Pretto</p>
+     <p>Via A. Manzoni, 6</p>
+     <p>36073 Cornedo Vicentino (Vi)</p>
+     <p>P.Iva 03458890245</p>
+    </address>
+   </div>
 
-  <p>Copyright &copy; andreagiuseppe.com - {{ __( "website.copyright" ) }}</p>
+   <div class="column">
+    <p>Copyright &copy; andreagiuseppe.com</p>
+    <p>{{ __( "website.copyright" ) }}</p>
+   </div>
+  </div>
  </div>
 </footer>

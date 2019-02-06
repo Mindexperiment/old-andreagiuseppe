@@ -37,6 +37,7 @@ return [
  ],
  'preface' => [
   'welcome' => "Welcome",
-  'whoami'  => "I'm a Full-Stack developer"
+  'whoami'  => "I'm a Full-Stack developer",
+  'plus'    => "and a consultant"
  ]
 ];
