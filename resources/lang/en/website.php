@@ -8,6 +8,9 @@ return [
  |--------------------------------------------------------------------------
  */
 
+ 'meta' => [
+  'description' => "Full-Stack Developer and Consultant"
+ ],
  'copyright' => "All right reserved",
  'header' => [
   'menu' => [

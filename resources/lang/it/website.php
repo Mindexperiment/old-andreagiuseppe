@@ -8,7 +8,10 @@ return [
  |--------------------------------------------------------------------------
  */
 
- 'copyright' => "Tutti i diritti riservati",
+'meta' => [
+ 'description' => "Sviluppatore Full-Stack e Consulente per la pianificazione di Web App moderne, innovative e scalabili."
+],
+'copyright' => "Tutti i diritti riservati",
  'header' => [
   'menu' => [
    'skills'    => "abilità",
