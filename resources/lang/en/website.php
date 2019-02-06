@@ -32,7 +32,8 @@ return [
  'contacts' => [
   'welcome' => "Hi, I'm Andrea. Nice to meet you.",
   'lead'    => "Design your full-fledged web apps with a solid expertise beside you.",
-  'contact' => "Let's get in touch with me:"
+  'email'   => "Send me an email:",
+  'phone'   => "or, call me at:"
  ],
  'preface' => [
   'welcome' => "Welcome",

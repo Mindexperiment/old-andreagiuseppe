@@ -32,7 +32,8 @@ return [
  'contacts' => [
   'welcome' => "Ciao, sono Andrea. Felice di conoscerti.",
   'lead'    => "Progetta la tua Web-app completa con una solida esperienza al tuo fianco.",
-  'contact' => "Mettiamoci in contatto:"
+  'email'   => "Inviami una email:",
+  'phone'   => "oppure, chiamami:"
  ],
  'preface' => [
   'welcome' => "Benvenuto",
