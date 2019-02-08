@@ -10,7 +10,7 @@
     </address>
    </div>
 
-   <div class="column">
+   <div class="column has-text-right">
     <p>Copyright &copy; andreagiuseppe.com</p>
     <p>{{ __( "website.copyright" ) }}</p>
    </div>

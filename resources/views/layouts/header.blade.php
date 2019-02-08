@@ -2,7 +2,7 @@
  <nav class="navbar">
   <div class="container">
    <div class="navbar-brand">
-    <a href="#home" class="navbar-item logo">Andrea Giuseppe</a>
+    <a href="{{ asset( 'homepage' ) }}" class="navbar-item logo">Andrea Giuseppe</a>
     <div class="navbar-burger burger"><span></span><span></span><span></span></div>
    </div>
 
