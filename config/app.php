@@ -163,7 +163,7 @@ return [
   /*
    * Package Service Providers...
    */
-  Agpretto\N3xtcms\N3xtcmsServiceProvider::class,
+  agpretto\n3xtcms\N3xtcmsServiceProvider::class,
 
   /*
    * Application Service Providers...
