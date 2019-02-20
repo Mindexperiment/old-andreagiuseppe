@@ -5,18 +5,18 @@
  </div>
 
  <nav>
-  <div>
-   <div>
+  <ul class="list-reset flex justify-between">
+   <li class="mr-3">
     <a href="#skills">{{ __( "website.header.menu.skills" ) }}</a>
-   </div>
+   </li>
 
-   <div>
+   <li class="mr-3">
     <a href="#portfolio">{{ __( "website.header.menu.portfolio" ) }}</a>
-   </div>
+   </li>
 
-   <div>
+   <li class="mr-3">
     <a href="#contacts">{{ __( "website.header.menu.contacts" ) }}</a>
-   </div>
-  </div>
+   </li>
+  </ul>
  </nav>
 </header>
