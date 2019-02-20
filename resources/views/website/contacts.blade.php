@@ -1,4 +1,4 @@
-<section id="contacts h-64">
+<section id="contacts" class="h-48 bg-white py-8">
  <div class="container mx-auto text-center">
 
   <article class="flex items-start">
@@ -6,7 +6,7 @@
     <img src="" class="max-w-auto h-auto w-1/4 rounded shadow" />
    </figure>
 
-   <div class="flex-1">
+   <div class="flex-1 text-left">
     <h4 class="text-2xl font-medium">{{ __( 'website.contacts.welcome' ) }}</h4>
     <p>{{ __( 'website.contacts.lead' ) }}</p>
     <p>{{ __( 'website.contacts.email' ) }} <a href="mailto:andrewloyd@libero.it">andrewloyd{at}libero.it</a></p>
