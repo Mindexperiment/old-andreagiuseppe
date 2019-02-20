@@ -20,37 +20,37 @@
 
         <div class="text-left">
          <h4 class="text-3xl font-medium">{{ __( 'website.skills.commonlang' ) }}</h4>
-         <div class="flex">
-          <span>{{ __( "Italian" ) }}</span>
-          <span>{{ __( "English" ) }}</span>
-          <span>{{ __( "French" ) }}</span>
+         <div class="flex justify-around">
+          <span class="p-4 bg-yellow-lightest text-yellow-light rounded shadow">{{ __( "Italian" ) }}</span>
+          <span class="p-4 bg-yellow-lightest text-yellow-light rounded shadow">{{ __( "English" ) }}</span>
+          <span class="p-4 bg-yellow-lightest text-yellow-light rounded shadow">{{ __( "French" ) }}</span>
          </div>
 
-         <h4 class="text-3xl font-medium">{{ __( 'website.skills.speciallang' ) }}</h4>
-         <div class="flex">
-          <span>HTML5</span>
-          <span>CSS3/SASS</span>
-          <span>JS (ES6)</span>
-          <span>PHP 7.2</span>
-          <span>MySql 8</span>
+         <h4 class="text-xl font-medium">{{ __( 'website.skills.speciallang' ) }}</h4>
+         <div class="flex justify-around">
+          <span class="p-4 bg-green-lightest text-green-light rounded shadow">HTML5</span>
+          <span class="p-4 bg-green-lightest text-green-light rounded shadow">CSS3/SASS</span>
+          <span class="p-4 bg-green-lightest text-green-light rounded shadow">JS (ES6)</span>
+          <span class="p-4 bg-green-lightest text-green-light rounded shadow">PHP 7.2</span>
+          <span class="p-4 bg-green-lightest text-green-light rounded shadow">MySql 8</span>
          </div>
 
-         <h4 class="text-3xl font-medium">{{ __( 'website.skills.tools' ) }}</h4>
-         <div class="flex">
-          <span>AWS Network</span>
-          <span>GIT</span>
-          <span>NPM</span>
-          <span>WEBPACK</span>
-          <span>VSCODE</span>
-          <span>G-Suite</span>
+         <h4 class="text-xl font-medium">{{ __( 'website.skills.tools' ) }}</h4>
+         <div class="flex flex-wrap justify-around">
+          <span class="p-4 bg-teal-lightest text-teal-light rounded shadow">AWS Network</span>
+          <span class="p-4 bg-teal-lightest text-teal-light rounded shadow">GIT</span>
+          <span class="p-4 bg-teal-lightest text-teal-light rounded shadow">NPM</span>
+          <span class="p-4 bg-teal-lightest text-teal-light rounded shadow">WEBPACK</span>
+          <span class="p-4 bg-teal-lightest text-teal-light rounded shadow">VSCODE</span>
+          <span class="p-4 bg-teal-lightest text-teal-light rounded shadow">G-Suite</span>
          </div>
 
-         <h4 class="text-3xl font-medium">{{ __( 'website.skills.frameworks' ) }}</h4>
+         <h4 class="text-xl font-medium">{{ __( 'website.skills.frameworks' ) }}</h4>
          <div class="flex">
-          <span>Laravel</span>
-          <span>JQuery</span>
-          <span>Vue</span>
-          <span>Bootstrap/Bulma</span>
+          <span class="p-4 bg-red-lightest text-red-light rounded shadow">Laravel</span>
+          <span class="p-4 bg-red-lightest text-red-light rounded shadow">JQuery</span>
+          <span class="p-4 bg-red-lightest text-red-light rounded shadow">Vue</span>
+          <span class="p-4 bg-red-lightest text-red-light rounded shadow">Bootstrap/Bulma</span>
          </div>
         </div>
        </div>
