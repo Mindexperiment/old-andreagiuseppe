@@ -2,14 +2,14 @@
  <div class="container mx-auto py-5">
   <div class="flex">
 
-   <div class="p-4">
+   <div class="w-1/2 p-4">
     <h1>
      <span>{{ __( 'website.skills.title' ) }}</span>
     </h1>
     <p>{{ __( 'website.skills.lead' ) }}</p>
    </div>
 
-   <div class="p-4">
+   <div class="w-1/2 p-4">
     <div>
      <article>
       <div>
