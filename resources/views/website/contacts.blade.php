@@ -1,7 +1,7 @@
-<section id="contacts" class="h-48 bg-white py-8">
+<section id="contacts" class="h-48 bg-white py-16">
  <div class="container mx-auto text-center">
 
-  <article class="flex items-start">
+  <article class="flex items-center">
    <figure>
     <img src="" class="max-w-auto h-auto w-1/4 rounded shadow" />
    </figure>
