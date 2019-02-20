@@ -1,5 +1,5 @@
 <header>
- <div class="container mx-auto flex items-center justify-between">
+ <div class="container mx-auto flex items-center justify-between p-6">
   <div class="flex-initial mr-6">
    <a href="{{ route( 'homepage' ) }}" >Andrea Giuseppe</a>
    <div><span></span><span></span><span></span></div>

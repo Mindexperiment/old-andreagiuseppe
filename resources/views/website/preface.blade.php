@@ -1,10 +1,8 @@
 <section>
- <div>
-  <div>
-   <h3>{{ __( 'website.preface.welcome' ) }}</h3>
-   <h1>Andrea Giuseppe</h1>
-   <h2>{{ __( 'website.preface.whoami' ) }}</h2>
-   <h4>{{ __( 'website.preface.plus' ) }}</h4>
-  </div>
+ <div class="container mx-auto h-screen">
+  <h3 class="text-2xl font-light">{{ __( 'website.preface.welcome' ) }}</h3>
+  <h1 class="text-4xl font-bold">Andrea Giuseppe</h1>
+  <h2 class="text-3xl font-medium">{{ __( 'website.preface.whoami' ) }}</h2>
+  <h4 class="text-xl">{{ __( 'website.preface.plus' ) }}</h4>
  </div>
 </section>
