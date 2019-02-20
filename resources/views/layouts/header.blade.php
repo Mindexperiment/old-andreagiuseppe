@@ -1,10 +1,10 @@
-<header class="bg-grey-light flex">
- <div class="flex-initial">
+<header class="flex items-center justify-between">
+ <div class="flex-initial mr-6">
   <a href="{{ route( 'homepage' ) }}" >Andrea Giuseppe</a>
   <div><span></span><span></span><span></span></div>
  </div>
 
- <nav class="flex-auto">
+ <nav>
   <div>
    <div>
     <a href="#skills">{{ __( "website.header.menu.skills" ) }}</a>
