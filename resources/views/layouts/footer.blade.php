@@ -1,7 +1,7 @@
-<footer class="footer">
- <div class="container">
-  <div class="columns is-size-7">
-   <div class="column">
+<footer>
+ <div>
+  <div>
+   <div>
     <address>
      <p>Andrea Giuseppe Pretto</p>
      <p>Via A. Manzoni, 6</p>
@@ -10,7 +10,7 @@
     </address>
    </div>
 
-   <div class="column has-text-right">
+   <div>
     <p>Copyright &copy; andreagiuseppe.com</p>
     <p>{{ __( "website.copyright" ) }}</p>
    </div>

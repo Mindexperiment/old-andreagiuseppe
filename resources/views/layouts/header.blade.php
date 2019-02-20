@@ -1,23 +1,23 @@
 <header>
- <nav class="navbar">
-  <div class="container">
-   <div class="navbar-brand">
-    <a href="{{ route( 'homepage' ) }}" class="navbar-item logo">Andrea Giuseppe</a>
-    <div class="navbar-burger burger"><span></span><span></span><span></span></div>
+ <nav>
+  <div>
+   <div>
+    <a href="{{ route( 'homepage' ) }}" >Andrea Giuseppe</a>
+    <div><span></span><span></span><span></span></div>
    </div>
 
-   <div class="navbar-menu">
-    <div class="navbar-end">
-     <div class="navbar-item">
-      <a class="navbar-item" href="#skills">{{ __( "website.header.menu.skills" ) }}</a>
+   <div>
+    <div>
+     <div>
+      <a href="#skills">{{ __( "website.header.menu.skills" ) }}</a>
      </div>
 
-     <div class="navbar-item">
-      <a class="navbar-item" href="#portfolio">{{ __( "website.header.menu.portfolio" ) }}</a>
+     <div>
+      <a href="#portfolio">{{ __( "website.header.menu.portfolio" ) }}</a>
      </div>
 
-     <div class="navbar-item">
-      <a class="navbar-item" href="#contacts">{{ __( "website.header.menu.contacts" ) }}</a>
+     <div>
+      <a href="#contacts">{{ __( "website.header.menu.contacts" ) }}</a>
      </div>
     </div>
    </div>
