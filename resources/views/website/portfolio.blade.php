@@ -2,9 +2,9 @@
  <div>
 
   <div>  
-   <div>
+   <div class="flex">
 
-    <div>
+    <div class="flex-1">
      <figure>
       <img src="{{ asset( 'images/layout/cmigea.jpg' ) }}" />
       <figcaption>
@@ -18,7 +18,7 @@
      </figure>
     </div>
 
-    <div>
+    <div class="flex-1">
      <figure>
       <img src="{{ asset( 'images/layout/sartori.jpg' ) }}" />
       <figcaption>
@@ -32,7 +32,7 @@
      </figure>
     </div>
 
-    <div>
+    <div class="flex-1">
      <figure>
       <img src="{{ asset( 'images/layout/kaleskop.jpg' ) }}" />
       <figcaption>

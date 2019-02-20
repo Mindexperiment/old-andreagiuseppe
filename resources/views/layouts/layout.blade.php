@@ -26,7 +26,7 @@
 
   <title>Andrea Giuseppe</title>
  </head>
- <body class="bg-gray-lighter">
+ <body class="bg-grey-lighter">
  @yield( 'body' )
 
  </body>

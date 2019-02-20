@@ -1,4 +1,4 @@
-<header class="bg-gray-light flex">
+<header class="bg-grey-light flex">
  <div class="flex-initial">
   <a href="{{ route( 'homepage' ) }}" >Andrea Giuseppe</a>
   <div><span></span><span></span><span></span></div>
