@@ -1,4 +1,4 @@
-<footer class="pt-16 bg-grey-light">
+<footer class="pt-16 pb-8 bg-grey-light">
  <div class="container mx-auto">
   <div class="flex justify-between">
    <address>
